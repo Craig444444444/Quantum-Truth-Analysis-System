@@ -32,7 +32,7 @@ setup(
     include_package_data=True,
     entry_points={
         'console_scripts': [
-            'quantum-truth=quantum_truth.__main__:main',
+            'quantum-truth=cli:main',
         ],
     },
 )
