@@ -1,28 +1,28 @@
-BSD 3-Clause License
+Quantum Truth Analysis System
+Copyright (c) 2023 Craig Huckerby. All rights reserved.
 
-Copyright (c) 2025, CRAIG HUCKERBY
+This software is licensed under the Academic Free License version 3.0
+with the following additional restrictions:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. Educational/Research Use Permission:
+   - This software may be freely used, copied, and modified for 
+     non-commercial educational and research purposes.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2. Commercial Use Restrictions:
+   - Any commercial use, distribution, or modification requires 
+     express written permission from the copyright holder.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+3. Military Applications Prohibition:
+   - This software may not be used for military research, applications,
+     or any defense-related purposes without explicit authorization.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+4. Publication Requirement:
+   - Any academic publication using this software must include 
+     proper attribution to the original author.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR 
+ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF 
+THIS SOFTWARE.
+
+Full AFL-3.0 terms available at: https://opensource.org/licenses/AFL-3.0
