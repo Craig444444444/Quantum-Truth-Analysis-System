@@ -52,7 +52,24 @@ quantum-truth "Aliens built the pyramids" -v
 | `-f, --framework` | Analysis framework | Scientific_Empirical |
 | `-o, --output` | Output directory | results |
 | `-v, --verbose` | Enable verbose output | False |
+| `--llm-provider` | LLM provider (openai, anthropic, etc.) | openai/config |
+| `--llm-api-key` | LLM API key | config/env |
 | `--version` | Show version | - |
+
+## LLM Integration
+
+To enable advanced language model support, set your API key:
+
+- Copy `.env.example` to `.env` and add your key, or
+- Edit `quantum_truth/config.ini` with your provider and key.
+
+Supported providers (planned): OpenAI, Anthropic, Google
+
+**Example:**
+```bash
+export LLM_API_KEY=your-openai-key
+quantum-truth "Analyze the claim using LLM" --framework Scientific_Empirical
+```
 
 ## Python API Usage
 
